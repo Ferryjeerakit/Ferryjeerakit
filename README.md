@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ferry Jeerakit</h1>
-<h3 align="center">Carious, Cool, Caffeine ☕</h3>
+<h3 align="center">Dang I really need some coffee right now ☕</h3>
 
 - 🔭 I’m currently working on **Website develop**
 
